@@ -43,7 +43,7 @@ To evaluate the effectiveness of InPaFer, we conducted a quantitative study. Spe
    	* `-start` : the bug id of start running project. (`-start=41` for the example)
    	* `-end` : the bug id of end running project. (`-end=41` for the example)
 
-   	After running the class `patchfilter.model.Main.PatchVariationMain`, you will obtain two directories: cache and tmp, for the next step.
+   	After running the class `Main.PatchVariationMain`, you will obtain two directories: cache and tmp, for the next step.
 
 
 #### Step 2, Obtain results of quantitative study
