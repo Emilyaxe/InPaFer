@@ -72,7 +72,6 @@ To evaluate the effectiveness of InPaFer, we conducted a quantitative study. Spe
     After running, you will obain one file, recording the number of remaining patches after each filtering step when configuring two attributes. For example, when setting `-t=method`, you will get queryNumber.csv which records the results when configuring variable and trace. 
 
 * RQ6: Sensitivity analysis to error rates
-
 	* Run the Main class `experiment.RQ6`
 
     `Run As`→`Run Configurations…` →`Arguments` : set the following arguments as Program Arguments.
